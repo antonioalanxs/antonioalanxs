@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 <p align="center">I am a <strong>Software Engineering student</strong> interested in <strong>Application development</strong>.</p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/antonio-josé-alanís-bernal-923852194" target="_blank" rel="noreferrer">
+    <a href="https://www.linkedin.com/in/antonio-alanis" target="_blank" rel="noreferrer">
         <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="33" height="33" alt="LinkedIn" />
     </a>
     <a href="https://discord.com/users/antonioalanxs" target="_blank" rel="noreferrer">
@@ -46,6 +46,10 @@ Here are some ideas to get you started:
 <br>
 
 <p align="center">
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=c" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=r" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=cpp" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=haskell" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=html" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=css" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=sass" />
@@ -56,19 +60,17 @@ Here are some ideas to get you started:
   <img width="45" height="45" src="https://skillicons.dev/icons?i=ts" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=astro" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=angular" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=java" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=php" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=c" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=cpp" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=python" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=spring" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=django" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=nodejs" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=express" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=java" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=spring" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=python" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=django" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=php" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=kotlin" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=mysql" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=postgresql" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=firebase" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=docker" />
-  <img width="45" height="45" src="https://skillicons.dev/icons?i=r" />
 </p>
 
