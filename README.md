@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 <br>
 
 ### 📝 Latests projects
-- [micarrito - A minimalist shopping list](https://github.com/antonioalanxs/micarrito)
-- [YouTube-inspired Video sharing platform with QoE integrated metrics](https://github.com/codeurjc-students/2023-QTube)
+- [board - A minimalist notice board used to give a lecture on the operation of Django and its security mechanisms](https://github.com/antonioalanxs/board)
+- [micarrito - A minimalist shopping list mobile application](https://github.com/antonioalanxs/micarrito)
 - [Experiments with Astro and the View Transitions API](https://github.com/antonioalanxs/View-Transitions-API)
 
 <br>
@@ -69,6 +69,7 @@ Here are some ideas to get you started:
   <img width="45" height="45" src="https://skillicons.dev/icons?i=php" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=kotlin" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=mysql" />
+  <img width="45" height="45" src="https://skillicons.dev/icons?i=sqlite" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=postgresql" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=firebase" />
   <img width="45" height="45" src="https://skillicons.dev/icons?i=docker" />
